@@ -9,6 +9,12 @@ source bin/activate
 
 ```
 
+Build Ultralytics:
+
+```bash
+pip install .
+```
+
 Run the program:
 
 ```bash
